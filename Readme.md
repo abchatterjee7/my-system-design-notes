@@ -2,7 +2,7 @@
 
 These notes are based on the System Design Interview books by Alex Xu - [Vol 1 and Vol 2 2nd Ed](https://www.goodreads.com/book/show/54109255-system-design-interview-an-insider-s-guide) 
 
-Check the company specific leetcode interview questions here: https://abchatterjee7/Leetcode-Company-Specific-Problems
+Check the company specific leetcode interview questions here: [https://abchatterjee7/Leetcode-Company-Specific-Problems](https://github.com/abchatterjee7/Leetcode-Company-Specific-Problems)
 
 **Note:** These notes are a work in progress. 
 
